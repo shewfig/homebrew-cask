@@ -1,6 +1,6 @@
 cask 'dynamic-dark-mode' do
-  version '1.0.5'
-  sha256 '458f28938d25f7dc857b27ee2d6066a55703a7c3ed635b015101f7bc1e1dee81'
+  version '1.0.6'
+  sha256 '2e82507ad65cf4eda208a8f41b4fe54944d0c04d15d1a49d1bcf546c65b7454d'
 
   # github.com/ApolloZhu/Dynamic-Dark-Mode was verified as official when first introduced to the cask
   url "https://github.com/ApolloZhu/Dynamic-Dark-Mode/releases/download/#{version}/Dynamic-#{version}.zip"
