@@ -1,6 +1,6 @@
 cask 'ticktick' do
-  version '2.7.50,77'
-  sha256 'a0ce491936bf4ea79f5111144555b13d1cb77bfa05d6e4413da7332b9326acf7'
+  version '2.8.00,83'
+  sha256 '781bdf66284ecf13cca6cbf597b11133fc47462192a01b406e88f17210090bf8'
 
   # appest-public.s3.amazonaws.com was verified as official when first introduced to the cask
   url "https://appest-public.s3.amazonaws.com/download/mac/TickTick_#{version.before_comma}_#{version.after_comma}.dmg"
